@@ -1,0 +1,12 @@
+00-intro.md
+01-what-is-wrong-with-principles.md
+02-what-is-wrong-with-rails-way.md
+03-responsibilities.md
+04-components.md
+05-state.md
+07-too-many.md
+  dependencies
+  methods
+  lines of-code
+
+08-you-are-not-your-framework.md (rails features vs ruby)
