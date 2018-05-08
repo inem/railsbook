@@ -1,2 +1,2 @@
-00-intro.md
-01-what-is-wrong-with-being-rails-dev.md
+00-introduction.md
+01-the-system.md
